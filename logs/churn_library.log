@@ -1,0 +1,14 @@
+root - INFO - Testing import_data: SUCCESS
+root - INFO - SUCCESS - marital_status_distribution.png was generated successfully
+root - INFO - SUCCESS - churn_distribution.png was generated successfully
+root - INFO - SUCCESS - customer_age_distribution.png was generated successfully
+root - INFO - SUCCESS - total_trans_ct_distribution.png was generated successfully
+root - INFO - SUCCESS - heatmap_distribution.png was generated successfully
+root - INFO - SUCCESS - dataframe encoded successfully
+root - INFO - SUCCESS - Features were generated successfully
+root - INFO - SUCCESS - the engineered data has the right shape
+root - INFO - SUCCESS - Models were trained and save successfully
+root - INFO - SUCCESS - roc_curves.png file was generated successfully
+root - INFO - SUCCESS - feature_importance.png file was generated successfully
+root - INFO - SUCCESS - rf_results.png file was generated successfully
+root - INFO - SUCCESS - logistic_results.png file was generated successfully
